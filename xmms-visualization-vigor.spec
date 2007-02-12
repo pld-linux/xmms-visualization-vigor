@@ -1,5 +1,5 @@
 Summary:	XMMS visualization plugin which displays dancing Vigor
-Summary(pl):	Wtyczka wizualizacji dla XMMS-a wy¶wietlaj±ca tañcz±cego Vigora
+Summary(pl.UTF-8):   Wtyczka wizualizacji dla XMMS-a wyÅ›wietlajÄ…ca taÅ„czÄ…cego Vigora
 Name:		xmms-visualization-vigor
 Version:	0.1.1
 Release:	1
@@ -20,8 +20,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 XMMS visualization plugin which displays dancing Vigor.
 
-%description -l pl
-Wtyczka wizualizacji dla XMMS-a wy¶wietlaj±ca tañcz±cego Vigora.
+%description -l pl.UTF-8
+Wtyczka wizualizacji dla XMMS-a wyÅ›wietlajÄ…ca taÅ„czÄ…cego Vigora.
 
 %prep
 %setup -q -n xmms-vigor-%{version}
